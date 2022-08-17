@@ -29,7 +29,7 @@ import static utils.TestNGListener.data;
 public class MyStepdefs {
     UserController user, user1, user2;
     JsonPath jsonpath;
-    JSONObject jsonObject;
+    JSONObject jsonObject,jsonObject1,jsonObject2;
     JSONArray jsonArray;
     ObjectMapper objectMapper=new ObjectMapper();
     Response response,putResponse;
@@ -262,20 +262,20 @@ public class MyStepdefs {
     @When("creating multiple users")
     public void creatingMultipleUsers() throws JsonProcessingException {
        jsonArray = (JSONArray) TestNGListener.data.get("createRequest2");
-       JSONObject jsonObject;
+
        jsonObject=(JSONObject) jsonArray.get(0);
-       JSONObject jsonObject1=(JSONObject) jsonArray.get(1);
-       JSONObject jsonObject2=(JSONObject)jsonArray.get(2);
+       jsonObject1=(JSONObject) jsonArray.get(1);
+       jsonObject2=(JSONObject)jsonArray.get(2);
 
         user = new UserController((String) jsonObject.get("name"),
                 (String) jsonObject.get("address"),
                 (Long) jsonObject.get("marks"));
-        user1 = new UserController((String) jsonObject.get("name"),
-                (String) jsonObject.get("address"),
-                (Long) jsonObject.get("marks"));
-        user2 = new UserController((String) jsonObject.get("name"),
-                (String) jsonObject.get("address"),
-                (Long) jsonObject.get("marks"));
+        user1 = new UserController((String) jsonObject1.get("name"),
+                (String) jsonObject1.get("address"),
+                (Long) jsonObject2.get("marks"));
+        user2 = new UserController((String) jsonObject2.get("name"),
+                (String) jsonObject2.get("address"),
+                (Long) jsonObject2.get("marks"));
     }
 
     @Then("multiple users must be created")
