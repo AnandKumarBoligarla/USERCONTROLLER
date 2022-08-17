@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 115688400,
+              "duration": 119631800,
               "status": "passed"
             },
             "line": 3,
@@ -24,7 +24,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:36.272Z",
+        "start_timestamp": "2022-08-17T07:34:52.528Z",
         "line": 5,
         "name": "verify if user resources can be added",
         "description": "",
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 823006800,
+              "duration": 875254900,
               "status": "passed"
             },
             "line": 6,
@@ -46,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 1001000,
+              "duration": 4935600,
               "status": "passed"
             },
             "line": 7,
@@ -79,7 +79,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:37.233Z",
+        "start_timestamp": "2022-08-17T07:34:53.546Z",
         "line": 9,
         "name": "Verify the user is able to create with no marks",
         "description": "",
@@ -89,7 +89,7 @@
         "steps": [
           {
             "result": {
-              "duration": 88912200,
+              "duration": 92414300,
               "status": "passed"
             },
             "line": 10,
@@ -121,7 +121,6 @@
         "steps": [
           {
             "result": {
-              "duration": 1000800,
               "status": "passed"
             },
             "line": 3,
@@ -134,7 +133,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:37.330Z",
+        "start_timestamp": "2022-08-17T07:34:53.647Z",
         "line": 13,
         "name": "Verify the user is not created with no name",
         "description": "",
@@ -144,7 +143,7 @@
         "steps": [
           {
             "result": {
-              "duration": 79359200,
+              "duration": 83736200,
               "status": "passed"
             },
             "line": 14,
@@ -156,7 +155,7 @@
           },
           {
             "result": {
-              "duration": 408629000,
+              "duration": 371311800,
               "status": "passed"
             },
             "line": 15,
@@ -189,7 +188,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:37.826Z",
+        "start_timestamp": "2022-08-17T07:34:54.112Z",
         "line": 17,
         "name": "Verify the user is not created with no address",
         "description": "",
@@ -199,7 +198,7 @@
         "steps": [
           {
             "result": {
-              "duration": 95242300,
+              "duration": 90621800,
               "status": "passed"
             },
             "line": 18,
@@ -211,7 +210,7 @@
           },
           {
             "result": {
-              "duration": 8958900,
+              "duration": 8998400,
               "status": "passed"
             },
             "line": 19,
@@ -244,7 +243,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:37.939Z",
+        "start_timestamp": "2022-08-17T07:34:54.219Z",
         "line": 21,
         "name": "Verify the user name is updated",
         "description": "",
@@ -254,7 +253,7 @@
         "steps": [
           {
             "result": {
-              "duration": 88517600,
+              "duration": 84076200,
               "status": "passed"
             },
             "line": 22,
@@ -266,7 +265,7 @@
           },
           {
             "result": {
-              "duration": 101587400,
+              "duration": 103290300,
               "status": "passed"
             },
             "line": 23,
@@ -299,7 +298,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:38.138Z",
+        "start_timestamp": "2022-08-17T07:34:54.413Z",
         "line": 25,
         "name": "Verify the user address is updated",
         "description": "",
@@ -309,7 +308,7 @@
         "steps": [
           {
             "result": {
-              "duration": 83276300,
+              "duration": 93989200,
               "status": "passed"
             },
             "line": 26,
@@ -321,7 +320,7 @@
           },
           {
             "result": {
-              "duration": 94863100,
+              "duration": 100185700,
               "status": "passed"
             },
             "line": 27,
@@ -342,7 +341,6 @@
         "steps": [
           {
             "result": {
-              "duration": 1000100,
               "status": "passed"
             },
             "line": 3,
@@ -355,7 +353,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:38.325Z",
+        "start_timestamp": "2022-08-17T07:34:54.615Z",
         "line": 29,
         "name": "verify the user marks is updated",
         "description": "",
@@ -365,7 +363,7 @@
         "steps": [
           {
             "result": {
-              "duration": 85376400,
+              "duration": 82985200,
               "status": "passed"
             },
             "line": 30,
@@ -377,7 +375,7 @@
           },
           {
             "result": {
-              "duration": 90743800,
+              "duration": 91895600,
               "status": "passed"
             },
             "line": 31,
@@ -410,7 +408,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:38.507Z",
+        "start_timestamp": "2022-08-17T07:34:54.795Z",
         "line": 33,
         "name": "verify the users list is displayed",
         "description": "",
@@ -420,7 +418,7 @@
         "steps": [
           {
             "result": {
-              "duration": 84687600,
+              "duration": 82321000,
               "status": "passed"
             },
             "line": 34,
@@ -432,7 +430,7 @@
           },
           {
             "result": {
-              "duration": 79787000,
+              "duration": 90059100,
               "status": "passed"
             },
             "line": 35,
@@ -453,6 +451,7 @@
         "steps": [
           {
             "result": {
+              "duration": 1111700,
               "status": "passed"
             },
             "line": 3,
@@ -465,7 +464,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:38.679Z",
+        "start_timestamp": "2022-08-17T07:34:54.972Z",
         "line": 37,
         "name": "verify that the particular user in the list is displayed",
         "description": "",
@@ -475,7 +474,7 @@
         "steps": [
           {
             "result": {
-              "duration": 82527000,
+              "duration": 80228700,
               "status": "passed"
             },
             "line": 38,
@@ -487,7 +486,7 @@
           },
           {
             "result": {
-              "duration": 76760300,
+              "duration": 75529100,
               "status": "passed"
             },
             "line": 39,
@@ -520,7 +519,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:38.843Z",
+        "start_timestamp": "2022-08-17T07:34:55.133Z",
         "line": 41,
         "name": "verify that the invalid id user is displayed",
         "description": "",
@@ -530,7 +529,7 @@
         "steps": [
           {
             "result": {
-              "duration": 82220700,
+              "duration": 80313100,
               "status": "passed"
             },
             "line": 42,
@@ -542,7 +541,7 @@
           },
           {
             "result": {
-              "duration": 79810400,
+              "duration": 77108200,
               "status": "passed"
             },
             "line": 43,
@@ -563,6 +562,7 @@
         "steps": [
           {
             "result": {
+              "duration": 1000100,
               "status": "passed"
             },
             "line": 3,
@@ -575,7 +575,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:39.009Z",
+        "start_timestamp": "2022-08-17T07:34:55.295Z",
         "line": 45,
         "name": "Verify that the user is deleted",
         "description": "",
@@ -585,7 +585,7 @@
         "steps": [
           {
             "result": {
-              "duration": 84251000,
+              "duration": 78228900,
               "status": "passed"
             },
             "line": 46,
@@ -597,7 +597,7 @@
           },
           {
             "result": {
-              "duration": 85839400,
+              "duration": 89613400,
               "status": "passed"
             },
             "line": 47,
@@ -630,7 +630,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:39.183Z",
+        "start_timestamp": "2022-08-17T07:34:55.467Z",
         "line": 49,
         "name": "verify that the invalid user is deleted",
         "description": "",
@@ -640,7 +640,7 @@
         "steps": [
           {
             "result": {
-              "duration": 78231700,
+              "duration": 78502200,
               "status": "passed"
             },
             "line": 50,
@@ -652,7 +652,7 @@
           },
           {
             "result": {
-              "duration": 75717100,
+              "duration": 81883700,
               "status": "passed"
             },
             "line": 51,
@@ -685,7 +685,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-08-17T05:32:39.343Z",
+        "start_timestamp": "2022-08-17T07:34:55.631Z",
         "line": 53,
         "name": "verify that the multiple users are added",
         "description": "",
@@ -706,7 +706,7 @@
           },
           {
             "result": {
-              "duration": 84434200,
+              "duration": 85813200,
               "status": "passed"
             },
             "line": 56,

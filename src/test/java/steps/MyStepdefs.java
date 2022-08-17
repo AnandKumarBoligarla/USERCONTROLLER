@@ -272,7 +272,7 @@ public class MyStepdefs {
                 (Long) jsonObject.get("marks"));
         user1 = new UserController((String) jsonObject1.get("name"),
                 (String) jsonObject1.get("address"),
-                (Long) jsonObject2.get("marks"));
+                (Long) jsonObject1.get("marks"));
         user2 = new UserController((String) jsonObject2.get("name"),
                 (String) jsonObject2.get("address"),
                 (Long) jsonObject2.get("marks"));
