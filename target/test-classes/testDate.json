@@ -1,0 +1,29 @@
+{
+  "createRequest": {
+    "name": "Anand",
+    "address": "Nellore",
+    "marks": 90
+  },
+  "updateRequest": {
+    "id": 58,
+    "name": "AJayAnand",
+    "address": "Nellore",
+    "marks": 95
+  },
+  "createRequest2": [{
+    "name": "Venkat",
+    "address": "Hyderabad",
+    "marks": 80
+  },
+{
+  "name": "vijay",
+  "address": "chittore",
+  "marks": 81
+},
+    {
+      "name": "Haseen",
+      "address": "vizag",
+      "marks": 88
+    }
+  ]
+}
